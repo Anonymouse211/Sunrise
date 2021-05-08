@@ -29,8 +29,6 @@ function draw(){
     Engine.update(engine);
 
     // write code to display time in correct format here
-
-
 }
 
 async function getBackgroundImg(){
@@ -92,3 +90,5 @@ async function getBackgroundImg(){
     //load the image in backgroundImg variable here
     backgroundImg = loadImage(bg);
 }
+
+
